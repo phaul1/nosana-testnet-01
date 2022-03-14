@@ -1,0 +1,19 @@
+{
+  "name": "Hard",
+  "accounts": [
+    {
+      "address": "juno1ccdgcdnf00lr7r7c3u6juxc6hazjysfrvtmrd0",
+      "amount": 100
+    },
+    {
+      "address": "juno1ccdgcdnf00lr7r7c3u6juxc6hazjysfrvtmrd0",
+      "amount": 100
+    }
+  ],
+  "cw20TokenAddress": "juno15q5gxnj6lxk4t08cllajcq3wvlwelzus3hz4tfz9uphpa6rjrwpq7uplvd",
+  "start": "null",
+  "startType": "null",
+  "expiration": "null",
+  "expirationType": "null",
+  "totalAmount": "200"
+}
